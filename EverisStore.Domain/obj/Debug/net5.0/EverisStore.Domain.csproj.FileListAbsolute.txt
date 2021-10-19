@@ -1,0 +1,12 @@
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.AssemblyInfoInputs.cache
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.AssemblyInfo.cs
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\bin\Debug\net5.0\EverisStore.Domain.deps.json
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\bin\Debug\net5.0\EverisStore.Domain.dll
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\bin\Debug\net5.0\ref\EverisStore.Domain.dll
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\bin\Debug\net5.0\EverisStore.Domain.pdb
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.dll
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\obj\Debug\net5.0\ref\EverisStore.Domain.dll
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.pdb
+C:\Users\wtcas\Documents\Dev\Git\DIO\EverisStore\EverisStore.Domain\obj\Debug\net5.0\EverisStore.Domain.csproj.AssemblyReference.cache
